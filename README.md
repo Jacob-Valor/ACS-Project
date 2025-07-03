@@ -20,7 +20,7 @@ A high-performance Python port scanner with multi-threading support for efficien
   - TCP port scanning
   - UDP port scanning
 - **Performance**
-  - Multi-threaded architecture (200+ threads)
+  - Multi-threaded architecture
   - Configurable timeout settings
 - **Flexibility**
   - Multiple port specification modes:
